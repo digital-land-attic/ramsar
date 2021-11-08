@@ -1,15 +1,5 @@
-# pages
-
-We recommend working in [virtual environment](http://docs.python-guide.org/en/latest/dev/virtualenvs/) before installing the python [requirements](requirements.txt), [makerules](https://github.com/digital-land/makerules) and other dependencies:
-
-    $ make makerules
-    $ make init
-    $ make
-
-# Nightly
-
-These pages are [updated nightly](https://github.com/digital-land/YYY/actions) by the [GitHub Action](.github/workflows/run.yml).
-
+These Ramsar pages have been moved to https://www.digital-land.info/dataset/ramsar
+P
 # Licence
 
 The software in this project is open source and covered by the [LICENSE](LICENSE) file.
